@@ -9,7 +9,7 @@ In this project used;
 
 You can click and check it out!
 
-Github: 
+Github: https://serapo.github.io/005-Weather-App/
 
 
 
